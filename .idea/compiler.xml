@@ -9,9 +9,13 @@
         <module name="quick-start" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="chat-client" target="17" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="chat-client" options="-parameters" />
       <module name="quick-start" options="-parameters" />
     </option>
   </component>
