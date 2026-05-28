@@ -1,2 +1,2 @@
-# AirlineSystem
-https://www.bilibili.com/video/BV1fm4yzVEpa/?spm_id_from=333.788.videopod.episodes&amp;vd_source=ed3be7632e68e45bd4cd3e833cad24f1&amp;p=4
+# HelloAgent学习
+https://hello-agents.datawhale.cc/#/./chapter1/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E5%88%9D%E8%AF%86%E6%99%BA%E8%83%BD%E4%BD%93
